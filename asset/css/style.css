@@ -1,0 +1,37 @@
+@font-face{
+    font-family: "Synemono";
+    src: url(../POLICE/SyneMono-Regular.ttf) ;
+}
+
+@font-face{
+    font-family: "coconut";
+    src: url(../POLICE/Coconut\ Punch\ DEMO.otf)
+}
+
+body {
+    background-image: url(../img/tableau1.png) ;
+    font-family: "coconut";
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    color: #5d5c60;
+    margin-top: 20%;
+}
+
+.field {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.btn{
+    border-radius: 10px;
+    background-color: #5d5c60;
+}
+
+input {
+    font-family: "Synemono";
+    font-size: 40px;
+    border-radius: 10px;
+}
