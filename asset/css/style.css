@@ -18,6 +18,7 @@ h1 {
     font-size: 60px;
     color: #5d5c60;
     margin-top: 20%;
+    text-shadow: #ffffff 1px 1px 2px;
 }
 
 .field {
